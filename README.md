@@ -10,7 +10,16 @@ An end-to-end NLP and Deep Learning project that enhances the detection of onlin
 ---
 
 ## 🖥️ Live Telemetry Dashboard
+
+### 🔴 Case 1: Potential Fraud Detected
+The system tags suspicious job postings containing typical scam triggers (e.g., upfront payment requests, unrealistic salaries, extreme urgency).
+
 ![Fraud Detection Dashboard](assets/detector_dashboard.png)
+
+### 🟢 Case 2: Legitimate Job Verified
+The system scans standard professional descriptions and returns high safety scores along with verified metrics.
+
+![Legitimate Job Dashboard](assets/legitimate_job_dashboard.png)
 
 ---
 
